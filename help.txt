@@ -1,0 +1,11 @@
+1.Github
+#Type "Github" to open Github
+2.What is Github?
+3.help
+4.e
+5.pi
+6.sleep
+7.What is base64
+8.Google
+9.Hello
+10.bye
